@@ -1,4 +1,14 @@
-### Hi there 👋
+👋 Hello, I'm Kelsey!
+
+🔌 As a data engineer, I specialize in harnessing the power of data through SQL, machine learning, Python, and more. My journey into the world of data is informed by my diverse background.
+
+🌿 With a master's degree in sustainable development, I've honed my expertise in renewable energy and materials. This unique perspective allows me to bring sustainability principles into my data engineering work.
+
+🇺🇸 Additionally, I am a proud US Marine Corps veteran, having served as an electrician. During my service, I gained valuable experience planning power grids and utilizing microgrid systems for operational success.
+
+📊 Data engineering, sustainability, and military service - my experiences have shaped my approach to problem-solving and creativity, and I'm excited to share my projects and knowledge with the GitHub community.
+
+Feel free to explore my repositories and let's collaborate to make the world a better place, one line of code at a time!
 
 <!--
 **kelseyhangyu/kelseyhangyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
