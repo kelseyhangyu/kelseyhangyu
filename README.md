@@ -1,6 +1,6 @@
 👋 Hello, I'm Kelsey!
 
-🔌 As a data engineer, I specialize in harnessing the power of data through SQL, machine learning, Python, and more. My journey into the world of data is informed by my diverse background.
+🔌 As a data engineer, I specialize in harnessing the power of data through SQL, machine learning, Python, R, and more. My journey into the world of data is informed by my diverse background.
 
 🌿 With a master's degree in sustainable development, I've honed my expertise in renewable energy and materials. This unique perspective allows me to bring sustainability principles into my data engineering work.
 
